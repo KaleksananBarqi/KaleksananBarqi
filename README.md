@@ -89,8 +89,8 @@ Multi-strategy system that adapts to market conditions:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaleksananBarqi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaleksananBarqi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaleksananBarqi&theme=tokyonight" alt="GitHub Stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaleksananBarqi&theme=tokyonight" alt="Top Languages" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaleksananBarqi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
