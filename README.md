@@ -1,98 +1,66 @@
 <div align="center">
 
-# Hey there! I'm Kaleksanan Barqi 👋
+# Kaleksanan Barqi Aji Massani
 
-### `Software Architect` · `AI Trading Systems Builder` · `Quantitative Developer`
+**Software Architect · Quantitative Developer**
+
+I build automated trading systems and data tooling, mostly in Python.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KaleksananBarqi-181717?style=for-the-badge&logo=github)](https://github.com/KaleksananBarqi)
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Binance](https://img.shields.io/badge/Binance-Futures-F0B90B?style=for-the-badge&logo=binance&logoColor=white)](https://binance.com)
-[![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Binance](https://img.shields.io/badge/Binance_Futures-F0B90B?style=for-the-badge&logo=binance&logoColor=white)](https://binance.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I'm **Kaleksanan Barqi Aji Massani** — a developer who builds things that trade while I sleep. 😴💸
-
-I specialize in designing **scalable software architectures** and building **intelligent autonomous trading systems** powered by multiple AI models. My philosophy: let the machines do the heavy lifting, but make sure they're *well-architected* machines.
-
-- 🔭 Currently working on **Multi-AI Crypto Trading Bots** powered by **Thinking Models (DeepSeek)**
-- 📊 Building **Real-time Trading Dashboards** with **Streamlit** & **MongoDB** Data Warehousing
-- 🧠 Deep into **Quantitative Finance**, **Computer Vision**, and **Sentiment Analysis**
-- 🏗️ Obsessed with clean architecture, modular design, and systems that don't break at 3 AM
-- 🌍 Based in **Indonesia** 🇮🇩
+- Based in Indonesia
+- Focus areas: algorithmic trading systems, AI-assisted market analysis, data automation
+- Currently building multi-AI crypto trading bots and real-time trading dashboards
+- Interested in clean architecture, modular design, and systems that stay maintainable
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Trading Systems
 
-### 🤖 [Bot-Trading-Easy-Peasy-Full-AI](https://github.com/KaleksananBarqi/Bot-Trading-Easy-Peasy-Full-AI)
-**The "Autonomous Sniper"**
+| Project | Description |
+|:--------|:------------|
+| **[Bot-Trading-Easy-Peasy-Full-AI](https://github.com/KaleksananBarqi/Bot-Trading-Easy-Peasy-Full-AI)** | Hybrid multi-AI crypto trading bot with a Triple AI Core (logic, vision, sentiment). AI sets entry, take-profit, and stop-loss with built-in validation. Python, Binance Futures. |
+| **[Bot-Trading-Easy-Peasy-GUI](https://github.com/KaleksananBarqi/Bot-Trading-Easy-Peasy-GUI)** | Local FastAPI web dashboard for a Binance Futures bot: engine start/stop, live log streaming (SSE), position and PnL monitoring, config hot-reload, MongoDB trade journal. |
+| **[Bot-Trading-Easy-Peasy](https://github.com/KaleksananBarqi/Bot-Trading-Easy-Peasy)** | Multi-strategy Binance Futures bot combining on-chain data, whale tracking, Fear & Greed, news sentiment, and technical analysis. `4 ★` |
+| **[Bot-Trading-EMA-Cross-CCI](https://github.com/KaleksananBarqi/Bot-Trading-EMA-Cross-CCI)** | Focused Binance Futures bot using EMA 10/20 crossover with a CCI(20) momentum filter and a fixed 1:2 risk/reward. |
 
-A **Hybrid Multi-AI** crypto trading system with a **Triple AI Core**:
-- 🧠 **Logic AI** (DeepSeek V3.2) — Strategic decisions
-- 👁️ **Vision AI** (Llama Vision) — Chart pattern recognition
-- 📰 **Sentiment AI** (Xiaomi Mimo) — News & market vibe
+### Tools & Automation
 
-> **New Features**: 
-> - 📊 **Live Streamlit Dashboard** for real-time trade monitoring & manual overrides.
-> - 🗄️ **MongoDB Integration** for scalable trade journaling and performance analytics.
-> - 🖼️ **Automated PnL Cards** generation for instant social sharing.
->
-> Full AI-Driven Setup: AI determines Entry, TP, and SL autonomously with built-in validation & safety checks.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance_Futures-F0B90B?style=flat-square&logo=binance&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-blueviolet?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ [Bot-Trading-Easy-Peasy](https://github.com/KaleksananBarqi/Bot-Trading-Easy-Peasy)
-**The "Strategic Analyst"**
-
-Multi-strategy system that adapts to market conditions:
-- 🏆 **Liquidity Hunt** — Catches stop-run reversals
-- 📈 **Pullback Continuation** — Rides the trend
-- 💥 **Breakdown Follow** — Follows momentum breakouts
-
-> **Backtest Result**: +84.54% profit, 84.52% win rate, Profit Factor 7.94 (Jan 2026)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance_Futures-F0B90B?style=flat-square&logo=binance&logoColor=white)
-![Testing](https://img.shields.io/badge/25%2B_Tests-passing-brightgreen?style=flat-square)
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|:--------|:------------|
+| **[smc-prompt-cli](https://github.com/KaleksananBarqi/smc-prompt-cli)** | Single-run Python CLI that pulls public Binance OHLC data, computes mechanical Smart Money Concepts facts (swings, structure, FVG), and renders a ready-to-paste LLM prompt. No paid APIs. |
+| **[Ekspor-Komen-Tiktok](https://github.com/KaleksananBarqi/Ekspor-Komen-Tiktok)** | Chrome/Brave extension that exports TikTok comments and replies to CSV/Excel in one click, with auto-scroll and emoji-safe output. |
+| **[notifikasi-telegram-buat-odoo](https://github.com/KaleksananBarqi/notifikasi-telegram-buat-odoo)** | Python worker that polls Odoo 18 over its XML-RPC API and forwards pending notifications to Telegram, with duplicate prevention. |
+| **[Automasi-Analisis-Tren-Data-Santri](https://github.com/KaleksananBarqi/Automasi-Analisis-Tren-Data-Santri)** | Python tool that cleans and analyses student enrolment data from Excel and generates formatted reports (growth, top gainers/decliners, gender distribution). |
+| **[BOT-RSS-Telegram](https://github.com/KaleksananBarqi/BOT-RSS-Telegram)** | RSS feed watcher that posts new articles to a Telegram chat. |
+| **[Telegram-Bot-File-Sender](https://github.com/KaleksananBarqi/Telegram-Bot-File-Sender)** | Small utility for sending messages and files manually through a Telegram bot. |
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## Tech Stack
 
 | Category | Technologies |
 |:--------:|:------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Data & Viz**| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **AI / ML** | ![DeepSeek](https://img.shields.io/badge/DeepSeek_V3-blueviolet?style=flat-square) ![Llama](https://img.shields.io/badge/Llama_Vision-ff69b4?style=flat-square) ![OpenRouter](https://img.shields.io/badge/OpenRouter-000?style=flat-square) |
-| **Crypto** | ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=white) ![DeFiLlama](https://img.shields.io/badge/DeFiLlama-green?style=flat-square) ![CoinMarketCap](https://img.shields.io/badge/CMC_API-17181B?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data & Viz** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **AI** | ![OpenRouter](https://img.shields.io/badge/OpenRouter-000?style=flat-square) ![DeepSeek](https://img.shields.io/badge/DeepSeek-blueviolet?style=flat-square) ![Vision](https://img.shields.io/badge/Vision_Models-ff69b4?style=flat-square) |
+| **Crypto** | ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=white) ![CCXT](https://img.shields.io/badge/CCXT-informational?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
 | **Testing** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Backtesting](https://img.shields.io/badge/Backtesting-orange?style=flat-square) |
-
-</div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -105,33 +73,13 @@ Multi-strategy system that adapts to market conditions:
 
 ---
 
-## 🤝 Let's Collaborate!
+## Contact
 
-I'm always open for collaboration on:
-- 🤖 **AI-powered trading systems** — Strategy design, backtesting, or optimization
-- 🏗️ **Software architecture** — Scalable, modular, maintainable systems
-- 📊 **Quantitative research** — Market microstructure, on-chain analytics
-
-> Got an idea? Let's talk! Open an [issue](https://github.com/KaleksananBarqi) or reach out.
-
----
-
-## ⚡ Fun Facts
-
-- 🤖 I treat my trading bots like employees — they even have mandatory **"Cooldown Periods"** after a loss to prevent revenge trading!
-- 🐋 My bots can detect whale transactions over **$1M** in real-time via WebSocket
-- 👁️ I taught an AI to literally **"see"** candlestick charts and recognize patterns like a human trader
-- ☕ Fueled by coffee and the sound of limit orders getting filled at 3 AM
-- 📈 My bot's best month: **+84.54% profit** with only **-1.82% max drawdown**
-
----
+Open to collaboration on trading systems, AI-assisted analysis, and data automation.
+Reach out via [GitHub](https://github.com/KaleksananBarqi) or open an issue on any repository.
 
 <div align="center">
 
-### 💡 *"Automate the boring stuff, architect the exciting stuff."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=KaleksananBarqi&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**Made with ☕ & 🤖 by Kaleksanan Barqi Aji Massani**
 
 </div>
